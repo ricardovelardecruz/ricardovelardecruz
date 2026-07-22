@@ -1,4 +1,4 @@
-# Hola, soy Ricardo Velarde 👋
+# Hola, soy rvelarde 👋
 
 Estudiante de Ingeniería en Sistemas en México, enfocado en crear aplicaciones web, automatizaciones y bots que resuelvan problemas reales.
 
@@ -20,10 +20,10 @@ Estudiante de Ingeniería en Sistemas en México, enfocado en crear aplicaciones
 
 ## Proyecto destacado
 
-### [Control de ventas web](https://github.com/ricardovelardecruz-max/VENTAS-WEB)
+### [Control de ventas web](https://github.com/ricardovelardecruz/VENTAS-WEB)
 
 Aplicación web adaptable a celular y computadora para registrar ingresos y gastos, consultar el historial y visualizar el balance del negocio. Construida con Node.js, Express, JavaScript y SQLite/Turso.
 
 ## Contacto
 
-Puedes conocer mis proyectos y contactarme directamente desde [mi perfil de GitHub](https://github.com/ricardovelardecruz-max).
+Puedes conocer mis proyectos y contactarme directamente desde [mi perfil de GitHub](https://github.com/ricardovelardecruz).
