@@ -1,6 +1,6 @@
 # Hola, soy Ricardo Velarde 👋
 
-Estudiante de Ingeniería en Sistemas en México, enfocado en crear aplicaciones web, automatizaciones y bots que resuelvan problemas reales.
+Estudiante de Ingeniería en Sistemas en México, enfocado en crear aplicaciones web, automatizaciones y bots 
 
 ## Sobre mí
 
